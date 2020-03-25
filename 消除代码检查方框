@@ -1,0 +1,5 @@
+anaconda插件中的linting功能，打开 Preferences->Package Settings->Anaconda->Settings-default，在打开的文件中部可以看到关于linting功能的设置：
+
+将其修改为 “anaconda_linting”: false
+
+重启sublime即可看到方框消失。
